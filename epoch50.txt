@@ -1,0 +1,10 @@
+Week 4
+
+Admin Module:
+In the admin module, the administrator has full control over the website. They authenticate themselves with a username and password to access the admin page. Once authenticated, they can enter the admin home area, where they have the authority to create and manage the entire website according to client requirements.
+
+User Module:
+Users can visit the home page of the real estate website, where they are greeted with an introduction to the site. Registered users have the option to log in from the login module. Guests can register for a free account to engage in buying and selling properties. Users can search for properties based on type, budget, and location. Additionally, users can navigate through main menu items to access various sections of the website, such as Overview, Awards, Projects, Interior, Reviews, Sponsorship, Loan Assistance, and Contact Us.
+
+Owner Module:
+The owner module is designed for property owners to update information about their properties and provide relevant details to users. A contact option is provided for users to easily and quickly reach the real estate, simplifying the process of visiting or confirming property details.
